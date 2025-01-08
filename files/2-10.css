@@ -1,0 +1,346 @@
+#skyblueDiv {
+    background-color: #E2F7FF;
+    padding: 96px;
+    width: 80%;
+    margin: auto;
+    margin-top: 64px;
+    margin-bottom: 368px;
+}
+
+.inlineBlock {
+    display: inline-block;
+}
+
+#firstImgAndTextDiv {
+    text-align: center;
+    margin-bottom: 64px;
+}
+
+#firstImg {
+    width: 90%;
+    height: 626px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#firstSpan {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: block;
+}
+
+#justTextDiv {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+}
+
+h1 {
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+#firstP {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#whiteButton {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    padding: 8px 12px;
+    width: 71px;
+    height: 36px;
+    margin-right: 8px;
+}
+
+#skybluebutton {
+    color: #3538CD;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #EEF4FF;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    padding: 8px 12px;
+    width: 87px;
+    height: 36px;
+    margin-right: 8px;
+}
+
+#pinkButton {
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    border-radius: 9999px;
+    padding: 8px 12px;
+    width: 110px;
+    height: 36px;
+}
+
+#firstdiv {
+    width: 330px;
+    margin-right: 20px;
+}
+
+.imgMairginBottom {
+    margin-bottom: 20px;
+}
+
+.spanStyles {
+    color: #6941C6;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.h2Styles {
+    font-size: 24px;
+    font-weight: 600;
+    color: #181D27;
+    margin-bottom: 8px;
+    vertical-align: middle;
+}
+
+.pStyles {
+    font-size: 16px;
+    color: #535862;
+    margin-bottom: 24px;
+    line-height: 24px;
+}
+
+#firstDivFirstButton {
+    color: #026AA2;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #F0F9FF;
+    border: 1px solid #B9E6FE;
+    border-radius: 9999px;
+    padding: 8px 12px;
+    margin-right: 8px;
+}
+
+#firstDivsecondButton {
+    font-size: 14px;
+    font-weight: 500;
+    color: #C11574;
+    background-color: #FDF2FA;
+    border: 1px solid #FCCEEE;
+    border-radius: 9999px;
+    padding: 8px 12px;
+    margin-right: 8px;
+}
+
+#firstDivThirdButton {
+    font-size: 14px;
+    font-weight: 500;
+    color: #C11574;
+    background-color: #FDF2FA;
+    border: 1px solid #FCCEEE;
+    border-radius: 9999px;
+    padding: 8px 12px;
+}
+
+#arrow {
+    width: 20%;
+    vertical-align: middle;
+    text-align: right;
+}
+
+#secondDiv {
+    width: 330px;
+    margin-right: 20px;
+}
+
+#arrowUp {
+    vertical-align: middle;
+    text-align: right;
+    width: 20%;
+}
+
+#secondDivFirstButton {
+    color: #067647;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #ECFDF3;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #ABEFC6;
+    margin-right: 8px;
+}
+
+#secondDivSecondButton {
+    color: #C11574;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #FDF2FA;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+}
+
+#thirdDiv {
+    width: 330px;
+    margin-right: 20px;
+}
+
+#arrowUpRight {
+    vertical-align: middle;
+    text-align: right;
+    width: 5%;
+}
+
+#thirdDivFirstButton {
+    color: #6941C6;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #F9F5FF;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    margin-right: 8px;
+}
+
+#thirdDivSEcondButton{
+    color: #363F72;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #F8F9FC;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+}    
+
+.width {
+    width: 100%;
+}
+
+#threeDivIn {
+    margin: auto;
+    margin-bottom: 48px;
+}
+
+#secondFirstDiv {
+    width: 330px;
+    margin-right: 20px;
+}
+
+#arrrow {
+    vertical-align: middle;
+    text-align: right;
+    width: 40%;
+}
+
+#secondDivfirstButtton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #B9E6FE;
+    border-radius: 9999px;
+    color: #026AA2;
+    padding: 8px 12px;
+    margin-right: 8px;
+    background-color: #F0F9FF;
+}
+
+#secondDivsecondButtton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #B9E6FE;
+    border-radius: 9999px;
+    color: #3538CD;
+    padding: 8px 12px;
+    margin-right: 8px;
+    background-color: #EEF4FF;
+}
+
+#secondDivthirdButtton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #F9DBAF;;
+    border-radius: 9999px;
+    color: #B93815;
+    padding: 8px 12px;
+    background-color: #FEF6EE;
+}
+
+#secondSeconDiv {
+    width: 330px;
+    margin-right: 20px;
+}
+
+#arrowDiv {
+    vertical-align: middle;
+    text-align: right;
+    width: 30%;
+}
+
+#designButton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    color: #6941C6;
+    padding: 8px 16px;
+    margin-right: 8px;
+    background-color: #F9F5FF;
+}
+
+#researchButton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    color: #3538CD;
+    padding: 8px 16px;
+    background-color: #EEF4FF;
+}
+
+#secondThirdDiv {
+    width: 330px;
+    margin-right: 20px;
+}
+
+.firstButton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #E9D7FE;
+    border-radius: 9999px;
+    color: #6941C6;
+    padding: 8px 16px;
+    margin-right: 8px;
+    background-color: #F9F5FF;
+}
+
+.secondButton {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #C7D7FE;
+    border-radius: 9999px;
+    color: #3538CD;
+    padding: 8px 16px;
+    background-color: #EEF4FF;
+}
+
+.vertical {
+    vertical-align: middle;
+}
+
+
+#secondthreeDivIn {
+    padding-bottom: 96px;
+    margin-top: 48px;
+}
+
+#arrrowDiv {
+    width: 5%;
+}
